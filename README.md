@@ -1,4 +1,4 @@
 # JavaScript-projects
-An overview of my Javascript projects made without framworks
+Projects I made to practice Javascript
 
 - [Quote Generator](https://madsakselsen.github.io/quote-generator/)
