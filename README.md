@@ -1,4 +1,4 @@
 # JavaScript-projects
 Projects I made to practice Javascript
 
-- [Quote Generator](https://madsakselsen.github.io/quote-generator/)
+- Quote Generator [Source Code](https://github.com/MadsAkselsen/quote-generator) / [Live](https://madsakselsen.github.io/quote-generator/)
