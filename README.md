@@ -5,3 +5,4 @@ Projects I made to practice Javascript
 - Infinite Scroll - ([Source Code](https://github.com/MadsAkselsen/Infinity-Scroll/tree/master) | [Live](https://madsakselsen.github.io/Infinity-Scroll/))
 - Picture in Picture - ([Source Code](https://github.com/MadsAkselsen/picture-in-picture/tree/master) | [Live](https://madsakselsen.github.io/picture-in-picture/))
 - Joke Teller - ([Source Code](https://github.com/MadsAkselsen/joke-teller/tree/master) | [Live](https://madsakselsen.github.io/joke-teller/))
+- Light Dark Theme - ([Source Code](https://github.com/MadsAkselsen/light-dark-mode) | [Live](https://madsakselsen.github.io/light-dark-mode/))
