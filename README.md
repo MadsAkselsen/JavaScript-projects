@@ -8,6 +8,7 @@ Projects I made to practice Javascript
 - Light Dark Theme - ([Source Code](https://github.com/MadsAkselsen/light-dark-mode) | [Live](https://madsakselsen.github.io/light-dark-mode/))
 - Animated Template - ([Source Code](https://github.com/MadsAkselsen/animated-template) | [Live](https://madsakselsen.github.io/animated-template/))
 - Animated Menu - ([Source Code](https://github.com/MadsAkselsen/navigation-nation) | [Live](https://madsakselsen.github.io/navigation-nation/))
-- Music Player - ([Source Code](https://github.com/MadsAkselsen/music-player) | [Live](https://madsakselsen.github.io/music-player/.))
+- Music Player - ([Source Code](https://github.com/MadsAkselsen/music-player) | [Live](https://madsakselsen.github.io/music-player/))
+- Custom Countdown - ([Source Code](https://github.com/MadsAkselsen/custom-countdown) | [Live](https://madsakselsen.github.io/custom-countdown/))
 
 
