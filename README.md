@@ -11,4 +11,4 @@ Projects I made to practice Javascript
 - Music Player - ([Source Code](https://github.com/MadsAkselsen/music-player) | [Live](https://madsakselsen.github.io/music-player/))
 - Custom Countdown - ([Source Code](https://github.com/MadsAkselsen/custom-countdown) | [Live](https://madsakselsen.github.io/custom-countdown/))
 - Bookmark Keeper - ([Source Code](https://github.com/MadsAkselsen/bookmark-keeper) | [Live](https://madsakselsen.github.io/bookmark-keeper/))
-
+- Video Player - ([Source Code](https://github.com/MadsAkselsen/video-player) | [Live](https://madsakselsen.github.io/video-player/))
