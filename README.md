@@ -12,3 +12,4 @@ Projects I made to practice Javascript
 - Custom Countdown - ([Source Code](https://github.com/MadsAkselsen/custom-countdown) | [Live](https://madsakselsen.github.io/custom-countdown/))
 - Bookmark Keeper - ([Source Code](https://github.com/MadsAkselsen/bookmark-keeper) | [Live](https://madsakselsen.github.io/bookmark-keeper/))
 - Video Player - ([Source Code](https://github.com/MadsAkselsen/video-player) | [Live](https://madsakselsen.github.io/video-player/))
+- Form Validation - ([Source Code](https://github.com/MadsAkselsen/form-validator) | [Live]()) Work-in progress
