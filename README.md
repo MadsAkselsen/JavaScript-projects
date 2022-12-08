@@ -15,3 +15,4 @@ Projects I made to practice Javascript
 - Form Validation - ([Source Code](https://github.com/MadsAkselsen/form-validator) | [Live](https://madsakselsen.github.io/form-validator/))
 - Rock, Scissors, Paper, Lizard, Spock - ([Source Code](https://github.com/MadsAkselsen/spock-rock-game) | [Live](https://madsakselsen.github.io/spock-rock-game/))
 - NASA APOD - ([Source Code](https://github.com/MadsAkselsen/nasa-apod) | [Live](https://madsakselsen.github.io/nasa-apod/))
+- Close popup when clicking outside - ([Source Code](https://github.com/MadsAkselsen/close-popup-manager) | [Live](https://codepen.io/madsakselsen/pen/WNymGOX))
